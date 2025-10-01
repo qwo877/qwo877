@@ -1,7 +1,7 @@
 # Hi there, I am qwo877 👋
 
 ## 👨‍🎓 About Me
-I am a vocational college student from **Taiwan**.  
+I am a Vocational High School student from **Taiwan**.  
 I love **Information Engineering**, and I'm currently learning in various fields:  
 - 🤖 Artificial Intelligence (AI)  
 - 🌐 Web Development  
