@@ -26,7 +26,7 @@ I love **Information Engineering**, and I'm currently learning in various fields
 
 ## 📫 Contact Me
 - ✉️ Email: s1215325@taivs.tp.edu.tw
-- 💬 Discord:匿名用戶9487
+- 💬 Discord:[匿名用戶9487](https://discordapp.com/users/873949638992994304)
 - 🌐 Personal Website: https://qwo877.github.io/me/
 
 ---
