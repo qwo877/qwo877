@@ -1,7 +1,7 @@
 # Hi there, I am qwo877 \owo
 
 ##  About Me
-**I am a first-year university student from Taiwan.**.  
+**I am a first-year university student from Taiwan**.  
 I love **Information Engineering**, and I'm currently learning in various fields:  
 -  Artificial Intelligence (AI)  
 -  Web Development  
